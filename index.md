@@ -6,14 +6,10 @@ My name is Wenna Xi and I am currently a fifth-year PhD student in the [Interdis
 
 ## Contact Information
 
-[Mathematical Biosciences Institute](https://mbi.osu.edu/)
-
-[The Ohio State University](https://www.osu.edu/)
-
-375 Jennings Hall
-
-1735 Neil Ave.
-
+[Mathematical Biosciences Institute](https://mbi.osu.edu/)\
+[The Ohio State University](https://www.osu.edu/)\
+375 Jennings Hall\
+1735 Neil Ave.\
 Columbus, OH 43210
 
 ## External Links
