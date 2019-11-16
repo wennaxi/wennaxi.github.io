@@ -17,5 +17,4 @@ Beyond my dissertation research, I was a Graduate Research Associate (GRA) at Oh
 DV-306A, 425 E 61st St<br>
 New York, NY 10065<br>
 T: (646)962-5641<br>
-[comment]:wex4002@med.cornell.edu
 [wex4002@med.cornell.edu](mailto:wex4002@med.cornell.edu)
