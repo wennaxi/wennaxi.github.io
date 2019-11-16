@@ -1,6 +1,6 @@
 ## Welcome to My Homepage!
 
-I am a postdoctoral associate in the [Department of Healthcare Policy and Research](https://hpr.weill.cornell.edu/) at [Weill Cornell Medicine](https://weill.cornell.edu/), under the joint supervision of [Samprit Banerjee](http://vivo.med.cornell.edu/display/cwid-sab2028) and [Jyotishman Pathak](http://vivo.med.cornell.edu/display/cwid-jyp2001). I completed my PhD in Biostatistics from [The Ohio State University](https://www.osu.edu/) under the supervision of [Catherine A. (Kate) Calder](https://cacalder.com/). 
+I am a postdoctoral associate in the [Department of Healthcare Policy and Research](https://hpr.weill.cornell.edu/) at [Weill Cornell Medicine](https://weill.cornell.edu/), under the joint supervision of [Samprit Banerjee](http://vivo.med.cornell.edu/display/cwid-sab2028) and [Jyotishman Pathak](http://vivo.med.cornell.edu/display/cwid-jyp2001). I completed my PhD in Biostatistics from [The Ohio State University](https://www.osu.edu/) under the supervision of [Catherine (Kate) Calder](https://cacalder.com/). 
 
 At Weill Cornell, I am using insurance claims data to study the healthcare utilization patterns among patients with mental health diagnosis. In addition, I am developing new positive-unlabeled (PU) learning method to improve the accuracy of mental health diagnosis in cinical settings. 
 
