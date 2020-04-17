@@ -14,7 +14,7 @@ Besides my dissertation research, I was a Graduate Research Associate (GRA) at O
 
 ## Contact Information
 
-[Department of Healthcare Policy and Research](https://hpr.weill.cornell.edu/)<br>
+[Department of Population Health Sciences](https://phs.weill.cornell.edu/)<br>
 [Weill Cornell Medicine](https://weill.cornell.edu/)<br>
 DV-306A, 425 E 61st St<br>
 New York, NY 10065<br>
