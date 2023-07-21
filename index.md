@@ -2,7 +2,7 @@
 
 I am Instructor in the Division of Biostatistics in the [Department of Population Health Sciences](https://phs.weill.cornell.edu/) (formerly known as the Department of Healthcare Policy and Research) at [Weill Cornell Medicine](https://weill.cornell.edu/). I completed my postdoctoral training in Mental Health Data Science at Weill Cornell under the joint supervision of [Samprit Banerjee](http://vivo.med.cornell.edu/display/cwid-sab2028) and [Jyotishman Pathak](http://vivo.med.cornell.edu/display/cwid-jyp2001). I received my PhD degree in Biostatistics in 2019 from [The Ohio State University](https://www.osu.edu/) under the supervision of [Catherine (Kate) Calder](https://cacalder.com/). My dissertation can be found [here](http://rave.ohiolink.edu/etdc/view?acc_num=osu1566156023255678).
 
-My research these days mostly focuses around using big data (e.g., EHR, insurance claims data) to study mental health, espeiclaly disparities in youth mental health care. I recently received a K99 award on studying risk and protective factors for Black youth suicide and suicidal thoughts and behaviors (K99 MH130713). 
+My research these days mostly focuses around using big data (e.g., EHR, insurance claims data) to study mental health, especially disparities in youth mental health care. I recently received a K99 award on studying risk and protective factors for Black youth suicide and suicidal thoughts and behaviors (K99 MH130713). 
 
 <!-- At Weill Cornell, I am using insurance claims data to study the healthcare utilization patterns among patients with mental health diagnosis. In addition, I am developing new positive-unlabeled (PU) learning method to improve the accuracy of mental health diagnosis in clinical settings.
 
