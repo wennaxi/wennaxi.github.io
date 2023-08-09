@@ -1,6 +1,6 @@
 ## Welcome to My Homepage!
 
-I am Instructor in the Division of Biostatistics in the [Department of Population Health Sciences](https://phs.weill.cornell.edu/) (formerly known as the Department of Healthcare Policy and Research) at [Weill Cornell Medicine](https://weill.cornell.edu/). I received my PhD degree in Biostatistics in 2019 from [The Ohio State University](https://www.osu.edu/) ([dissertation:](http://rave.ohiolink.edu/etdc/view?acc_num=osu1566156023255678))._I completed my postdoctoral training in Mental Health Data Science at Weill Cornell.
+I am Instructor in the Division of Biostatistics in the [Department of Population Health Sciences](https://phs.weill.cornell.edu/) (formerly known as the Department of Healthcare Policy and Research) at [Weill Cornell Medicine](https://weill.cornell.edu/). I received my PhD in Biostatistics in 2019 from [The Ohio State University](https://www.osu.edu/) ([dissertation:](http://rave.ohiolink.edu/etdc/view?acc_num=osu1566156023255678)) and completed my postdoctoral training in Mental Health Data Science at Weill Cornell.
 
 <!-- under the joint supervision of [Samprit Banerjee](http://vivo.med.cornell.edu/display/cwid-sab2028) and [Jyotishman Pathak](http://vivo.med.cornell.edu/display/cwid-jyp2001)-->. I received my PhD degree in Biostatistics in 2019 from [The Ohio State University](https://www.osu.edu/) <!-- under the supervision of [Catherine (Kate) Calder](https://cacalder.com/)-->. My dissertation can be found [here](http://rave.ohiolink.edu/etdc/view?acc_num=osu1566156023255678).
 
