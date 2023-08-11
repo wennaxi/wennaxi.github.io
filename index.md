@@ -20,7 +20,7 @@ Besides my dissertation research, I was a Graduate Research Associate (GRA) at O
 
 [Department of Population Health Sciences](https://phs.weill.cornell.edu/)<br>
 [Weill Cornell Medicine](https://weill.cornell.edu/)<br>
-DV-306A, 425 E 61st St<br>
+LA009, 402 E 67th St<br>
 New York, NY 10065<br>
 T: (646)962-5641<br>
 [wex4002@med.cornell.edu](mailto:wex4002@med.cornell.edu)
